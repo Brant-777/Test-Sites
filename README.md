@@ -8,3 +8,6 @@ Additon of Chart.js features to webpage for 2018 Audited Financials
 
 JSFiddle
 https://jsfiddle.net/ncwxqojL/
+
+IRS Form 990/Consolidated Financials
+https://www.clintonfoundation.org/sites/default/files/clinton_foundation_report_public_2018.pdf
